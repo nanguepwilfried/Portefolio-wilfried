@@ -666,7 +666,7 @@
       <h3 class="exp-title">Stagiaire — Assistant Ingénieur Structure</h3>
       <div class="exp-text"><ul>
         <li>Dimensionnement de poutres, poteaux et platines de renfort</li>
-        <li>Modélisation et analyse des structures sur Robot Structural Analysis</li>
+        <li>Modélisation et analyse des structures sur Graitec Arche </li>
         <li>Études de renforcement des éléments porteurs par structures métalliques</li>
       </ul></div>
     </div>
@@ -676,11 +676,49 @@
       <p class="exp-company">BELG BTP · Douala, Cameroun</p>
       <h3 class="exp-title">Conducteur de Travaux Junior — CDD</h3>
       <div class="exp-text"><ul>
-        <li>Planification et suivi des travaux avec Microsoft Project</li>
-        <li>Contrôle de conformité et de qualité des ouvrages exécutés</li>
-        <li>Suivi du budget et gestion des coûts avec Microsoft Project et Excel</li>
-        <li>Dimensionnement de hangars en béton armé avec Robot, AutoCAD et ArchiCAD</li>
-        <li>Sécurité des ouvriers sur chantier et animation des réunions de chantier</li>
+        <li>Planification et suivi des travaux avec Microsoft Project
+Gros œuvre – Sous-sol 1 / Rez-de-chaussée + 7 niveaux | Yaoundé, Cameroun
+Pilotage complet du planning d'exécution d'un immeuble de grande hauteur (SS-1, R+7) à Yaoundé, depuis les travaux de terrassement jusqu'à la mise hors d'eau, à l'aide de Microsoft Project.
+
+Élaboration du planning général des travaux (diagramme de Gantt, chemin critique, jalons clés) en intégrant les contraintes terrain, les délais d'approvisionnement et les rotations d'équipes
+Coordination inter-corps d'état : suivi des interfaces entre terrassement, fondations, gros œuvre béton armé et maçonnerie
+Mise à jour régulière de l'avancement réel vs prévisionnel, avec identification et gestion des dérives de planning
+Anticipation des ressources critiques (matériaux, engins, main-d'œuvre) pour maintenir la cadence sur chantier
+Reporting périodique à la maîtrise d'ouvrage et aux équipes encadrantes</li>
+        <li>Contrôle de conformité et qualité des ouvrages — Du terrassement à la charpente
+Hangar industriel – SASEL SARL | Douala, Cameroun
+Mission de contrôle technique et qualité sur l'ensemble du cycle de réalisation d'un hangar industriel, depuis les fondations jusqu'à la mise en place de la charpente métallique.
+
+Contrôle des fondations : vérification de la conformité dimensionnelle et du positionnement des semelles filantes et isolées (implantation, profondeur d'ancrage, ferraillage, qualité du béton coulé)
+Suivi de la mise en œuvre : contrôle des coffrages, des armatures (diamètres, espacements, enrobages) et de la qualité des coulages selon les plans d'exécution et les normes en vigueur
+Réception des ouvrages intermédiaires : validation des éléments structuraux (poteaux, longrines, dés de fondation) avant passage aux phases suivantes
+Contrôle de la charpente : vérification de la conformité géométrique et mécanique lors de la pose des fermes métalliques — aplomb, alignement, assemblages boulonnés et soudés
+Levée des non-conformités : identification des écarts, rédaction de fiches de non-conformité et suivi des reprises jusqu'à conformité validée</li>
+        <li>Suivi budgétaire et gestion des coûts — Résidence à Douala
+Budget final : 475 000 000 FCFA (~725 000 €) | Douala, Cameroun
+Pilotage financier complet d'un projet de résidence à Douala, assurant la maîtrise des coûts de l'engagement initial jusqu'à la clôture du chantier, avec Microsoft Project pour le planning budgétaire et Excel pour le suivi analytique des dépenses.
+
+Construction du budget prévisionnel : décomposition du projet en lots, chiffrage des postes (main-d'œuvre, matériaux, matériel, sous-traitance) et établissement du budget de référence
+Suivi des engagements et des dépenses réelles : mise à jour périodique des coûts réels vs prévisions, détection précoce des dérives budgétaires et proposition de mesures correctives
+Tableaux de bord financiers sous Excel : élaboration d'outils de reporting dynamiques (courbes d'avancement budgétaire, écarts coûts/délais, reste à dépenser)
+Gestion des avenants et imprévus : intégration des modifications de programme, suivi des plus et moins-values et réévaluation des prévisions en cours de chantier
+Reporting à la maîtrise d'ouvrage : présentation régulière de l'état financier du projet, avec synthèse des risques et des marges disponibles</li>
+        <li>Dimensionnement de structures de hangars en béton armé
+Outils : Autodesk Robot Structural Analysis | AutoCAD | ArchiCAD
+Démarche personnelle d'approfondissement technique menée en parallèle de l'activité professionnelle, consistant à reprendre et vérifier de manière indépendante des calculs de dimensionnement de hangars en béton armé.
+
+Modélisation structurale sous Robot : reconstitution de modèles de structures (portiques, poteaux-poutres, dalles) afin de vérifier la cohérence des hypothèses de charges, des combinaisons d'actions et des résultats de calcul
+Vérification des éléments structuraux : contrôle des sections en béton armé (poteaux, poutres, fondations) selon les principes des Eurocodes et/ou des règlements locaux applicables
+Lecture critique des plans d'exécution : confrontation des plans AutoCAD et ArchiCAD avec les notes de calcul, détection d'éventuels écarts entre le dimensionnement théorique et les dispositions constructives retenues
+Montée en compétence autonome : appropriation progressive des logiciels de calcul de structure et des méthodes de vérification aux états limites (ELU/ELS)</li>
+        <li>Sécurité des ouvriers et animation des réunions de chantier
+Plusieurs chantiers | Douala & Yaoundé, Cameroun
+Implication active dans la gestion de la sécurité sur chantier et la conduite des réunions de suivi, en appui au chef de projet, sur plusieurs opérations de construction menées en parallèle ou successivement.
+
+Sensibilisation et prévention sécurité : rappel systématique des consignes de sécurité auprès des ouvriers (port des EPI, balisage des zones à risque, gestion des accès, conduite à tenir en cas d'accident), avec une attention particulière aux phases critiques comme le coulage, le levage et le travail en hauteur
+Veille terrain : identification des situations dangereuses, signalement des non-conformités sécurité et suivi des actions correctives jusqu'à leur résolution
+Co-animation des réunions de chantier : participation active aux réunions hebdomadaires aux côtés du chef de projet — point sur l'avancement, levée des réserves, arbitrage des interfaces entre corps d'état, coordination des plannings d'intervention
+Rédaction des comptes-rendus : formalisation des décisions prises, des engagements de chaque intervenant et des points de vigilance à suivre, avec diffusion aux parties prenantes dans les délais impartis</li>
       </ul></div>
     </div>
     <div class="exp-item">
@@ -726,7 +764,7 @@
   </div>
   <div class="skills-wrap">
     <div class="skill-tag">Robot Structural Analysis</div>
-    <div class="skill-tag">AutoCAD 2D</div>
+    <div class="skill-tag">AutoCAD 2D-3D</div>
     <div class="skill-tag">ArchiCAD</div>
     <div class="skill-tag">Revit</div>
     <div class="skill-tag">CYPECAD</div>
@@ -739,7 +777,7 @@
     <div class="skill-tag">Gestion de chantier</div>
     <div class="skill-tag">Français — Natif</div>
     <div class="skill-tag">Anglais — B1</div>
-    <div class="skill-tag">Allemand / Espagnol — Notions</div>
+    <div class="skill-tag">Espagnol — Notions</div>
   </div>
 </section>
 
@@ -753,7 +791,7 @@
     <div class="contact-info">
       <div class="contact-info-item"><label>Téléphone</label><p>06 05 51 56 53</p></div>
       <div class="contact-info-item"><label>Email</label><a href="mailto:nanguepwandaw@gmail.com">nanguepwandaw@gmail.com</a></div>
-      <div class="contact-info-item"><label>Adresse</label><p>12 Rue de Vendée, Brest, France</p></div>
+      <div class="contact-info-item"><label>Adresse</label><p>Brest, France</p></div>
       <div class="contact-info-item"><label>LinkedIn</label><a href="http://linkedin.com/in/wilfried-briand-nanguep-wanda-273571265" target="_blank">linkedin.com/in/wilfried-briand-nanguep-wanda</a></div>
       <div class="contact-info-item"><label>Alternance recherchée</label><p>Septembre 2026 → 2029<br>Bureau d'études &amp; Terrain</p></div>
     </div>
