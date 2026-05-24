@@ -483,7 +483,7 @@
 
   <div class="hero-left">
     <div class="hero-tag">Ingénieur Génie Civil · Structures &amp; Chantier</div>
-    <h1 class="hero-title">Wilfried Briand<br><em>Nanguep Wanda</em></h1>
+    <h1 class="hero-title">Wilfried<br><em>Nanguep</em></h1>
     <p class="hero-sub">Étudiant en cycle ingénieur au CESI, 25 ans — alliant expertise terrain en conduite de travaux et maîtrise du calcul de structures. À la recherche d'une alternance à partir de septembre 2026.</p>
     <div class="hero-cta">
       <a href="cv-wilfried.pdf" class="btn btn-filled"><span>↓ Télécharger mon CV</span></a>
@@ -502,7 +502,7 @@
       </div>
       <div class="hero-card hero-card-2">
         <label>Localisation</label>
-        <p>Brest, France</p>
+        <p>Partout en France</p>
       </div>
     </div>
   </div>
