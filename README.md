@@ -677,8 +677,7 @@
       <h3 class="exp-title">Conducteur de Travaux Junior — CDD</h3>
       <div class="exp-text"><ul>
         <li>Planification et suivi des travaux avec Microsoft Project
-Gros œuvre – Sous-sol 1 / Rez-de-chaussée + 7 niveaux | Yaoundé, Cameroun:<br>   
-          <ul>
+Gros œuvre – Sous-sol 1 / Rez-de-chaussée + 7 niveaux | Yaoundé, Cameroun:<br></ul>
             <li>Pilotage complet du planning d'exécution d'un immeuble de grande hauteur (SS-1, R+7) à Yaoundé, depuis les travaux de terrassement jusqu'à la mise hors d'eau, à l'aide de Microsoft Project.<br>
             <li>Élaboration du planning général des travaux (diagramme de Gantt, chemin critique, jalons clés) en intégrant les contraintes terrain, les délais d'approvisionnement et les rotations d'équipes<br>
             <li>Coordination inter-corps d'état : suivi des interfaces entre terrassement, fondations, gros œuvre béton armé et maçonnerie<br>
@@ -686,8 +685,7 @@ Gros œuvre – Sous-sol 1 / Rez-de-chaussée + 7 niveaux | Yaoundé, Cameroun:<
             <li>Anticipation des ressources critiques (matériaux, engins, main-d'œuvre) pour maintenir la cadence sur chantier<br>
             <li>Reporting périodique à la maîtrise d'ouvrage et aux équipes encadrantes</li>
         <li>Contrôle de conformité et qualité des ouvrages — Du terrassement à la charpente
-Hangar industriel – SASEL SARL | Douala, Cameroun:<br>
-         <ul>
+Hangar industriel – SASEL SARL | Douala, Cameroun:<br></ul>
            <li>Mission de contrôle technique et qualité sur l'ensemble du cycle de réalisation d'un hangar industriel, depuis les fondations jusqu'à la mise en place de la charpente métallique.<br>
            <li>Contrôle des fondations : vérification de la conformité dimensionnelle et du positionnement des semelles filantes et isolées (implantation, profondeur d'ancrage, ferraillage, qualité du béton coulé)<br>
            <li>Suivi de la mise en œuvre : contrôle des coffrages, des armatures (diamètres, espacements, enrobages) et de la qualité des coulages selon les plans d'exécution et les normes en vigueur<br>
@@ -695,8 +693,7 @@ Hangar industriel – SASEL SARL | Douala, Cameroun:<br>
            <li>Contrôle de la charpente : vérification de la conformité géométrique et mécanique lors de la pose des fermes métalliques — aplomb, alignement, assemblages boulonnés et soudés<br>
            <li>Levée des non-conformités : identification des écarts, rédaction de fiches de non-conformité et suivi des reprises jusqu'à conformité validée</li>
         <li>Suivi budgétaire et gestion des coûts — Résidence à Douala
-Budget final : 475 000 000 FCFA (~725 000 €) | Douala, Cameroun:<br>
-         <ul>
+Budget final : 475 000 000 FCFA (~725 000 €) | Douala, Cameroun:<br></ul>
            <li>Pilotage financier complet d'un projet de résidence à Douala, assurant la maîtrise des coûts de l'engagement initial jusqu'à la clôture du chantier, avec Microsoft Project pour le planning budgétaire et Excel pour le suivi analytique des dépenses.<br>
            <li>Construction du budget prévisionnel : décomposition du projet en lots, chiffrage des postes (main-d'œuvre, matériaux, matériel, sous-traitance) et établissement du budget de référence<br>
            <li>Suivi des engagements et des dépenses réelles : mise à jour périodique des coûts réels vs prévisions, détection précoce des dérives budgétaires et proposition de mesures correctives<br>
@@ -705,16 +702,14 @@ Budget final : 475 000 000 FCFA (~725 000 €) | Douala, Cameroun:<br>
            <li>Reporting à la maîtrise d'ouvrage : présentation régulière de l'état financier du projet, avec synthèse des risques et des marges disponibles</li>
         <li>Dimensionnement de structures de hangars en béton armé
 Outils : Autodesk Robot Structural Analysis | AutoCAD | ArchiCAD:<br>
-Démarche personnelle d'approfondissement technique menée en parallèle de l'activité professionnelle, consistant à reprendre et vérifier de manière indépendante des calculs de dimensionnement de hangars en béton armé.<br>
-        <ul>
+Démarche personnelle d'approfondissement technique menée en parallèle de l'activité professionnelle, consistant à reprendre et vérifier de manière indépendante des calculs de dimensionnement de hangars en béton armé.<br></ul>
           <li>Modélisation structurale sous Robot : reconstitution de modèles de structures (portiques, poteaux-poutres, dalles) afin de vérifier la cohérence des hypothèses de charges, des combinaisons d'actions et des résultats de calcul<br>
           <li>Vérification des éléments structuraux : contrôle des sections en béton armé (poteaux, poutres, fondations) selon les principes des Eurocodes et/ou des règlements locaux applicables<br>
           <li>Lecture critique des plans d'exécution : confrontation des plans AutoCAD et ArchiCAD avec les notes de calcul, détection d'éventuels écarts entre le dimensionnement théorique et les dispositions constructives retenues<br>
           <li>Montée en compétence autonome : appropriation progressive des logiciels de calcul de structure et des méthodes de vérification aux états limites (ELU/ELS)</li>
         <li>Sécurité des ouvriers et animation des réunions de chantier
 Plusieurs chantiers | Douala & Yaoundé, Cameroun:<br>
-Implication active dans la gestion de la sécurité sur chantier et la conduite des réunions de suivi, en appui au chef de projet, sur plusieurs opérations de construction menées en parallèle ou successivement.<br>
-        <ul>
+Implication active dans la gestion de la sécurité sur chantier et la conduite des réunions de suivi, en appui au chef de projet, sur plusieurs opérations de construction menées en parallèle ou successivement.<br></ul>
           <li>Sensibilisation et prévention sécurité : rappel systématique des consignes de sécurité auprès des ouvriers (port des EPI, balisage des zones à risque, gestion des accès, conduite à tenir en cas d'accident), avec une attention particulière aux phases critiques comme le coulage, le levage et le travail en hauteur<br>
           <li>Veille terrain : identification des situations dangereuses, signalement des non-conformités sécurité et suivi des actions correctives jusqu'à leur résolution<br>
           <li>Co-animation des réunions de chantier : participation active aux réunions hebdomadaires aux côtés du chef de projet — point sur l'avancement, levée des réserves, arbitrage des interfaces entre corps d'état, coordination des plannings d'intervention<br>
